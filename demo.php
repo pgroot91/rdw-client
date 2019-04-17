@@ -1,1 +1,5 @@
-// DEMO
+<?php
+
+// Silence is golden
+
+?>
